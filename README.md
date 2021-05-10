@@ -1,18 +1,20 @@
+<p align="center">
+    <img width="800" src="https://github.com/ccuffs/identidade-visual/blob/master/logos/bg-transparent/cc-logo-bg-transparent.png?raw=true" title="Logo do projeto"><br />
+</p>
+
 # Modelo de site pessoal
 
-Esse repositório contém um modelo básico de site pessoal que pode ser utilizado para a criação da sua página no curso. Abaixo estão algumas informações úteis sobre desevolvimento web e sobre como colocar seu site no ar.
-
-> **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se for o caso.
+Esse repositório contém um modelo básico de site pessoal que pode ser utilizado para a criação da sua página do curso. Abaixo estão algumas informações úteis sobre como colocar seu site no ar e desevolvimento web e sobre.
 
 ## 🚀 Colocando o site no ar
 
-### 1. Crie um repositório
+### Crie um repositório
 
 Crie um repositório no Github chamado `ccuffs-site`.
 
 A forma mais fácil de fazer isso é clicar no botão `Fork` desse próprio repositório aqui. Isso criará uma cópia dele para a sua conta no Github.
 
-### 2. Ative seu site pessoal
+### Ative seu site pessoal
 
 Siga os seguintes passos para ativar seu site pessoal:
 
