@@ -4,7 +4,7 @@
 
 # Modelo de site pessoal
 
-Esse repositório contém um modelo básico de site pessoal que pode ser utilizado para a criação da sua página do curso. Abaixo estão algumas informações úteis sobre como colocar seu site no ar e desevolvimento web e sobre.
+Esse repositório contém um modelo básico de site pessoal que pode ser utilizado para a criação da sua página do curso. Abaixo estão algumas informações úteis sobre como colocar seu site no ar e também desevolvimento web em geral.
 
 ## 🚀 Colocando o site no ar
 
